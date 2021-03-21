@@ -1,4 +1,4 @@
-# Cookie
+# Storage
 
 [Link](https://vzaporozky.github.io/Cookie/)
 
